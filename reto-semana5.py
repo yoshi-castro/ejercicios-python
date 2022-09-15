@@ -19,7 +19,7 @@
 
 a_actual = input('¡Hola! Escribe el año en el que te encuentras actualmente: ')
 
-a_cualquiera = input('¡Hola! Escribe un año cualquiera para hacer un cálculo: ')
+a_cualquiera = input('Ahora escribe un año cualquiera para hacer un cálculo: ')
 
 calculo = 0
 
